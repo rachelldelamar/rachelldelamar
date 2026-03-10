@@ -40,9 +40,7 @@ I'm a developer who cares about building things that help people. Right now I'm 
 
 ## a bit about me
 
-I'm drawn to projects where the technical problem and the human problem are the same thing. AccessibleDocs started because language barriers make everyday documents — forms, letters, menus — unnecessarily hard to navigate. I wanted to do something about that.
-
-I'm always learning. Right now that means getting more comfortable with full-stack architecture and finding cleaner ways to structure code as projects grow.
+I'm drawn to projects where the technical problem and the human problem are the same thing. 
 
 ---
 
