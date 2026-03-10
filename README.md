@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# hey, I'm Rachell 👋
+
+I'm a developer who cares about building things that help people. Right now I'm focused on making technology more accessible.
+
+---
+
+## what I'm working on
+
+**[AccessibleDocs](https://github.com/rachelldelamar/AccessibleDocs)** — a translation platform that goes beyond just converting text. You photograph any English document, get a Spanish translation, and can tap any word to see its definition, grammar, and usage examples. Built with React, Node/Express, Google Cloud Vision, and DeepL.
+
+**[CUS_Alpha_Pi](https://github.com/rachelldelamar/CUS_Alpha_Pi)** — currently building this out.
+
+---
+
+## tech I work with
+
+**Languages:** JavaScript, Java, CSS, HTML  
+**Frontend:** React, custom hooks, Fetch API, FileReader API  
+**Backend:** Node.js, Express, REST APIs  
+**Tools & Services:** Google Cloud Vision, DeepL API, dotenv, CORS  
+**Other:** Git, branch strategy (main / dev / feature), OCR workflows
+
+---
+
+## a bit about me
+
+I'm drawn to projects where the technical problem and the human problem are the same thing. AccessibleDocs started because language barriers make everyday documents — forms, letters, menus — unnecessarily hard to navigate. I wanted to do something about that.
+
+I'm always learning. Right now that means getting more comfortable with full-stack architecture and finding cleaner ways to structure code as projects grow.
+
+---
+
+## get in touch
+
+If you're working on something in the accessibility or language tech space, I'd love to hear about it.
+
+📍 GitHub: [@rachelldelamar](https://github.com/rachelldelamar)
